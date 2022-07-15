@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### 안녕하세요 저는 ✨바쿄뇽✨입니다 ㅡㅇ헤ㅔ헤에엫
 <!--
 **gusdud2068/gusdud2068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
