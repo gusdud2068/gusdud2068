@@ -1,7 +1,7 @@
 <div align='center'> 
 ### Hi there 👋
 
-### 안녕하세요 저는 ✨바쿄뇽✨입니다 
+### 안녕하세요 저는 ✨박현영 github✨입니다 
 
  <br>
 
